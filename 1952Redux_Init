@@ -226,6 +226,10 @@ musicMode = () => {
                 "name": "Let it Snow! Let it Snow! Let it Snow! – Frank Sinatra",
                 "url": "https://audio.jukehost.co.uk/Xz0H2pgEWXVX28jquNNK35Xqspof4o0Q"
               },
+             {
+                "name": "When the Saints Go Marching In – Louis Armstrong",
+                "url": "https://audio.jukehost.co.uk/vduRKY0WduKIKIOJkQ0m9g6hqhZDoPB0"
+            },
               {
                 "name": "On Top of Old Smokey – Weavers & Terry Gilkyson",
                 "url": "https://audio.jukehost.co.uk/lxFp9CnOSLjQ5TrPSYOdxZbVm8R4no0G"
